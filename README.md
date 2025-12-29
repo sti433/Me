@@ -1,4 +1,4 @@
-#👋 Hi, I’m Setareh
+👋 Hi, I’m Setareh
 
 💻 C# Developer | .NET Enthusiast | Problem Solver
 I love building clean, practical, and fun applications.
